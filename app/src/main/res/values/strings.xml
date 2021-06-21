@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Notes3</string>
+    <string name="appTitle">Заметки</string>
+    <string name="addNote">Добавить заметку</string>
+    <string name="find">Найти</string>
+    <string name="about">О приложении</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
